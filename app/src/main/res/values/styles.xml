@@ -1,0 +1,10 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        ...
+        <item name="colorAccent">@color/Coral</item>
+        <item name="android:textColor">@color/Black</item>
+    </style>
+
+</resources>
